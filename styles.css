@@ -1,0 +1,68 @@
+body {
+  font-family: Merriweather;
+  font-size: 14px;
+  color: black;
+}
+
+.main {
+  width: 500px;
+  margin: auto;
+  margin-top: 19%;
+  margin-bottom: 10%;
+  line-height: 1;
+
+}
+
+img {
+  background-repeat: no-repeat;
+  height: 80%;
+  width: 80%;
+  margin: auto;
+}
+
+
+
+#bootstrap-override {
+  padding: 0;
+  line-height: 1;
+  background-color: transparent;
+  border: none;
+  color: black;
+}
+
+.fine-day {
+  margin: 5% 0;
+}
+.fine-day-text {
+  margin: 3% 5% 30%;
+}
+
+.habitual-ritual {
+  margin: 5% 0;
+}
+
+.habitual-ritual-text {
+  margin: 3% 5% 30%;
+}
+
+.images {
+  width: 100%;
+  margin-left: 5%;
+  padding: 2%;
+}
+
+.img {
+  padding: 2%;
+}
+
+
+
+.about {
+  width: 40%;
+  display: block;
+  float: right;
+  margin-right: 18%;
+  padding: 20% 0 20% 0;
+  text-align: right;
+  line-height: 1.3;
+}
